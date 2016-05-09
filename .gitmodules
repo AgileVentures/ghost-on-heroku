@@ -1,0 +1,3 @@
+[submodule "content/themes/av-ghost-theme"]
+	path = content/themes/av-ghost-theme
+	url = https://github.com/AgileVentures/av-ghost-theme
